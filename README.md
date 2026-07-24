@@ -1,16 +1,33 @@
-## Hi there 👋
+##
 
-<!--
-**ayumi-duarte/ayumi-duarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" style="font-size:28px; font-weight:600;">
+  Hello World ☁️ I'm Ayumi D. Fukita
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Information Systems Student at UTFPR & Software Development Intern <br>
+  Constantly learning and adapting to keep pace with the fast-evolving tech world
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<h3 align="center">🧠 Languages & Technologies</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,py,java" />
+</p>
+
+<h3 align="center">🛠️ Tools & Systems</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
+
+##
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayumi-fukita/"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:fkt.ayumi@gmail.com"><img src="https://img.shields.io/badge/Gmail-1E1E1E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
